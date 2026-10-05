@@ -22,3 +22,4 @@ __pycache__/
 # Environment / secrets
 .env
 .env.*
+kaggle_sin_notebook706b5506c8_old.ipynb
